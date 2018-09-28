@@ -1,0 +1,7 @@
+* [Steel balls]https://fr.aliexpress.com/item/6mm-7mm-8mm-9mm-10mm-Diamter-Acier-Boules-Chasse-Slingshot-Inoxydable-MUNITIONS-en-plein-air-Professionnel/32865391564.html?spm=a2g0s.13010208.99999999.259.777d3c00bHYZCM
+* [L298N](https://fr.aliexpress.com/item/Dual-H-Bridge-DC-Stepper-Motor-Drive-Controller-Board-Module-L298N/32273246252.html?spm=a2g0s.13010208.99999999.272.777d3c00bHYZCM)
+* [LM324](https://fr.aliexpress.com/item/Free-Shipping-10PCS-LM324N-DIP-14-324-LM324-New-and-original/32453634686.html?spm=a2g0s.13010208.99999999.278.777d3c00bHYZCM)
+* [MCP3008](https://fr.aliexpress.com/item/YUXINYUAN-1-pcs-MCP3008-DIP16-MCP3008-I-P-DIP-16-DIP-Peut-tre-achet-directement/32925830719.html?spm=a2g0s.13010208.99999999.285.777d3c00bHYZCM)
+* [SS495A](https://fr.aliexpress.com/item/SS495A-TO92-in-stock-can-pay/32624267215.html?spm=a2g0s.13010208.99999999.291.777d3c00bHYZCM)
+* [Socket connector](https://fr.aliexpress.com/item/10pcs-Round-Hole-14-Pins-2-54MM-DIP-IC-Sockets-14-PIN-2-54-Adaptor-Solder/32799921132.html?spm=a2g0s.13010208.99999999.297.777d3c00bHYZCM)
+* [Coil](https://fr.aliexpress.com/item/5-pcs-La-Troisi-me-G-n-ration-Bobine-De-100-Syst-me-Magn-tique-L/32898604548.html?spm=a2g0s.13010208.99999999.303.777d3c00bHYZCM)
