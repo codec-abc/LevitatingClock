@@ -1,1 +1,1 @@
-[Design](https://easyeda.com/codec-abc/levitating-clock
+[Design](https://easyeda.com/codec-abc/levitating-clock)
